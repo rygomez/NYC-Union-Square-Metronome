@@ -1,4 +1,4 @@
-nyc_metronome
+NYC Union Square Metronome
 =============
 
 A Javascript Implementation of the giant clock in Union Square, New York City
